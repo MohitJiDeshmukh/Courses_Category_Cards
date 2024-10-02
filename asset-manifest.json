@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Courses_Category_Cards/static/css/main.3a3ee2e6.css",
+    "main.js": "/Courses_Category_Cards/static/js/main.e12fdc31.js",
+    "index.html": "/Courses_Category_Cards/index.html",
+    "main.3a3ee2e6.css.map": "/Courses_Category_Cards/static/css/main.3a3ee2e6.css.map",
+    "main.e12fdc31.js.map": "/Courses_Category_Cards/static/js/main.e12fdc31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3ee2e6.css",
+    "static/js/main.e12fdc31.js"
+  ]
+}
